@@ -351,14 +351,33 @@ The application is deployed on **Vercel**:
 
 ---
 
-## 👨‍💻 Contributors
+## 👤 Authors
 
-Developed by the **AI-btech-project** engineering team as an advanced multi-agent robotics path planning system.
+<div align="center">
 
-- GitHub: [@AI-btech-project](https://github.com/AI-btech-project)
+### **Harshal Nimje** &nbsp; **and** &nbsp; **Manish Punekar**
+
+*Final Year Computer Engineering Students*
+
+**Harshal Nimje**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/AI-btech-project/customer-churn-prediction)
+[![GitHub](https://img.shields.io/badge/GitHub-hnimje14-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hnimje14)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalnimje)
+
+**Manish Punekar**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/AI-btech-project/customer-churn-prediction)
+[![GitHub](https://img.shields.io/badge/GitHub-ManishPunekar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ManishPunekar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-punekar-3147a5383)
+
+*Interested in Machine Learning, Deep Learning, Full-Stack Development, and AI Applications.*
+
+</div>
 
 ---
 
 ## 📄 License
 
 This repository is currently unassigned an explicit open-source license. All rights are reserved by the project authors **Manish Punekar** and **Harshal Nimje** and the **AI-btech-project** organization.
+
