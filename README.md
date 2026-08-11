@@ -361,13 +361,11 @@ The application is deployed on **Vercel**:
 
 **Harshal Nimje**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/AI-btech-project/customer-churn-prediction)
 [![GitHub](https://img.shields.io/badge/GitHub-hnimje14-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hnimje14)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalnimje)
 
 **Manish Punekar**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/AI-btech-project/customer-churn-prediction)
 [![GitHub](https://img.shields.io/badge/GitHub-ManishPunekar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ManishPunekar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-punekar-3147a5383)
 
