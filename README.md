@@ -361,4 +361,4 @@ Developed by the **AI-btech-project** engineering team as an advanced multi-agen
 
 ## 📄 License
 
-This repository is currently unassigned an explicit open-source license. All rights are reserved by the project authors and the **AI-btech-project** organization.
+This repository is currently unassigned an explicit open-source license. All rights are reserved by the project authors **Manish Punekar** and **Harshal Nimje** and the **AI-btech-project** organization.
